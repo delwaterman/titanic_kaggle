@@ -1,0 +1,8 @@
+jupyter
+scipy
+numpy
+matplotlib
+pandas
+scikit-learn
+nose
+sympy
